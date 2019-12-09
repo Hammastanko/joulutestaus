@@ -1,2 +1,0 @@
-# joulutestaus
-Created with CodeSandbox
